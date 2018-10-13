@@ -1,0 +1,33 @@
+// test program
+// do nothing (for now)
+def test2() {b = 6;return(b);};
+
+def foo(s, a){
+    s = s * 1;
+    print(((((20 - e ) * (c - 20.5) / d + -10 + 2 * (10*4 > v) ) * 2.4) <= 20.6'));
+    b = s * a / 2;
+};
+/*
+	/*
+		/* nested
+			comment */
+						*/
+							*/
+def bar(alpha, beta, delta)
+{
+    alpha = beta - alpha + delta;
+    delta = delta * alpha / beta; // testing comment
+    /*/*3 + 3;*/*/
+    foo(alpha, "hello foo/* @1*/ 2.56");
+};
+
+print("hello world");
+def test() {};
+
+a = 2 + 2;
+b = ++a * 3;
+a *= 3.5;
+a = bar(a, b, a*b);
+//0test2 = a + 3; // error test
+print(2+2);
+print(foo((a*2.56)/5, !(a > 5)));
